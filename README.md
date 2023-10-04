@@ -1,3 +1,5 @@
+forked from vision-camera-code-scanner
+
 # vision-camera-code-scanner
 
 VisionCamera Frame Processor Plugin to read barcodes using MLKit Vision Barcode Scanning
@@ -5,7 +7,7 @@ VisionCamera Frame Processor Plugin to read barcodes using MLKit Vision Barcode 
 ## Installation
 
 ```sh
-yarn add vision-camera-code-scanner
+yarn add vision-camera-code-scanner-3v
 ```
 
 make sure you correctly [setup](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/installation/) react-native-reanimated and insert as a first line of your [`index.tsx`](https://github.com/rodgomesc/vision-camera-code-scanner/blob/1409a8afd02328a26e336036493b2d6ef8441359/example/index.tsx#L1)
